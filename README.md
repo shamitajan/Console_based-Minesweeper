@@ -77,6 +77,8 @@ This project implements the classic Minesweeper game in C++. The game is console
 Prerequisites
 A C++ compiler (e.g., GCC, MSVC).
 A Windows or Linux environment.
+---
+
 📧 Contact For feedback, suggestions, or collaboration, feel free to reach out:
 
 Email: jshamita075@gmail.com
