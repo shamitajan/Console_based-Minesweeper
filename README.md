@@ -68,17 +68,12 @@ This project implements the classic Minesweeper game in C++. The game is console
 ---
 
 ## Future Enhancements 🚀
-- Add a graphical user interface (GUI) using SFML libraries. 🖼️
+- Add a graphical user interface (GUI). 🖼️
 - Implement advanced game mechanics like score tracking. 📈
 - Add functionality to save and load games. 💾
 
 ---
-🚀 Getting Started
-Prerequisites
-A C++ compiler (e.g., GCC, MSVC).
-A Windows or Linux environment.
----
 
-📧 Contact For feedback, suggestions, or collaboration, feel free to reach out:
+## Acknowledgments 🙌
+Thank you for playing this implementation of Minesweeper! Feedback and contributions are always welcome. 💌
 
-Email: jshamita075@gmail.com
