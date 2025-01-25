@@ -18,11 +18,6 @@ This project implements the classic Minesweeper game in C++. The game is console
 1. **Run the Game**:
    Compile the code using a C++ compiler (e.g., g++). Run the resulting executable.
 
-   ```bash
-   g++ -o minesweeper minesweeper.cpp
-   ./minesweeper
-   ```
-
 2. **Select Difficulty**:
    - Easy: 8x8 grid with 10 mines 🟩
    - Medium: 16x16 grid with 40 mines 🟨
@@ -68,23 +63,20 @@ This project implements the classic Minesweeper game in C++. The game is console
 ---
 
 ## Notes 📝
-- On Windows, replace `system("clear")` with `system("cls")` for proper console clearing. 🖥️
 - Ensure input coordinates are within bounds to avoid errors. ❗
 
 ---
 
 ## Future Enhancements 🚀
-- Add a graphical user interface (GUI). 🖼️
+- Add a graphical user interface (GUI) using SFML libraries. 🖼️
 - Implement advanced game mechanics like score tracking. 📈
 - Add functionality to save and load games. 💾
 
 ---
+🚀 Getting Started
+Prerequisites
+A C++ compiler (e.g., GCC, MSVC).
+A Windows or Linux environment.
+📧 Contact For feedback, suggestions, or collaboration, feel free to reach out:
 
-## License 📜
-This project is open-source and distributed under the MIT License.
-
----
-
-## Acknowledgments 🙌
-Thank you for playing this implementation of Minesweeper! Feedback and contributions are always welcome. 💌
-
+Email: jshamita075@gmail.com
